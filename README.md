@@ -13,5 +13,5 @@ DSAI enthusiast from India - Turning data into intelligence through ML, DL, NLP,
 ---
 
 ## Let’s connect! 
-[LinkedIn](https://www.linkedin.com/in/khushi-sharma-4a42842a0?utm_source=share_via&utm_content=profile&utm_medium=member_android) | [Kaggle](@khushi2106) | [Email](khushisa@iitbhilai.ac.in)  
+[LinkedIn](https://www.linkedin.com/in/khushi-sharma-4a42842a0?utm_source=share_via&utm_content=profile&utm_medium=member_android) | [Kaggle](https://www.kaggle.com/khushi2106) | [Email](khushisa@iitbhilai.ac.in)  
 
