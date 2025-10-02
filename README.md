@@ -1,5 +1,5 @@
 # Hi there, I'm Khushi 👋  
-
+--- 
 DSAI enthusiast from India, Turning data into intelligence through ML, DL, NLP, and Computer Vision. Exploring the worlds of LLMs, RAG, Gen AI with end-to-end AI systems — from data wrangling to deployment.
 ---
 
